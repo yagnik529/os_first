@@ -1,2 +1,2 @@
-print(num, "is a prime number")
-print(num, "is not a prime number")
+print("is a prime number")
+print("is not a prime number")
